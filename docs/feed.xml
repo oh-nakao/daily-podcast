@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>毎朝のITトレンド</title>
+    <description>最新のITニュースを自動でお届けします。</description>
+    <link>https://oh-nakao.github.io/daily-podcast/</link>
+    <language>ja</language>
+    <item>
+      <title>2026年08月01日のニュース</title>
+      <description><![CDATA[<h2>2026年08月01日のニュース引用元</h2><ul><li><a href="https://www.recordchina.co.jp/b987936-s25-c20-d0193.html">日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア</a></li><li><a href="https://gihyo.jp/article/2026/07/terminal-browser">ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在Apple Silicon Macのみ対応 | gihyo.jp</a></li><li><a href="https://john.fun/elevators">Elevators</a></li><li><a href="https://kawarimidoll.com/posts/202608011/">Claude Codeの使い方を分析して最適化するcclensが良さげかも | kawarimidoll.com</a></li><li><a href="https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html">カンファレンス生態系の変化と CFP の功罪 | blog.jxck.io</a></li></ul>]]></description>
+      <enclosure url="https://oh-nakao.github.io/daily-podcast/audio/episode_20260801.mp3" type="audio/mpeg" />
+      <pubDate>Sat, 01 Aug 2026 09:49:13 -0000</pubDate>
+      <guid>https://oh-nakao.github.io/daily-podcast/audio/episode_20260801.mp3</guid>
+    </item>
+  </channel>
+</rss>

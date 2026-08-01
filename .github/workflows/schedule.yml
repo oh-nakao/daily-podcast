@@ -25,6 +25,7 @@ jobs:
 
       - name: Run Python script
         env:
+          TZ: 'Asia/Tokyo'
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GOOGLE_APPLICATION_CREDENTIALS: tts-service-account.json
         run: |

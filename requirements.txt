@@ -1,0 +1,4 @@
+feedparser
+google-genai
+google-cloud-texttospeech
+python-dotenv

@@ -100,6 +100,8 @@ def update_rss(news_list, mp3_filename, today_str):
 
     base_url = "https://oh-nakao.github.io/daily-podcast/" 
     audio_url = f"{base_url}audio/{mp3_filename}"
+    mp3_path = f"docs/audio/{mp3_filename}"
+    file_size = os.path.getsize(mp3_path)
     
     # アプリの詳細欄(Show Notes)に表示するHTMLリンクを作成
     show_notes = f"<h2>{today_str}のニュース引用元</h2><ul>"

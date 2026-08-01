@@ -1,5 +1,15 @@
 ## 2026年08月01日のニュース
 
+- [Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学DX業務推進室](https://mx.general.hokudai.ac.jp/posts/SuvDaMaR)
+- [CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはかせ](https://note.com/o_ob/n/nd19cba8e11d7)
+- [宮本佳林『アイドルがAIと配信のシステムを全部作った話』](https://ameblo.jp/miyamotokarin-official/entry-12974432505.html)
+- [skills/plugins/html/skills/html at main · mathbullet/skills](https://github.com/mathbullet/skills/tree/main/plugins/html/skills/html)
+- [宮本佳林『HANAKIN配信システムの技術構成』](https://ameblo.jp/miyamotokarin-official/entry-12974440752.html)
+
+---
+
+## 2026年08月01日のニュース
+
 - [宮本佳林『アイドルがAIと配信のシステムを全部作った話』](https://ameblo.jp/miyamotokarin-official/entry-12974432505.html)
 - [宮本佳林『HANAKIN配信システムの技術構成』](https://ameblo.jp/miyamotokarin-official/entry-12974440752.html)
 - [AIを使わず地理演算でファンタジー地図を自動生成するWebツール『USOMAP』がとても面白い「水源から町を作る」「国境線の作り方もリアル」](https://togetter.com/li/2727453)

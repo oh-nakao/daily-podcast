@@ -1,0 +1,41 @@
+name: Daily Podcast Generator
+
+on:
+  schedule:
+    # 毎日 日本時間の朝5時 (UTCの20時) に実行
+    - cron: '0 20 * * *'
+  workflow_dispatch: # 手動実行ボタン
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Python script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_APPLICATION_CREDENTIALS: tts-service-account.json
+        run: |
+          # SecretsからJSONファイルを生成
+          echo '${{ secrets.GCP_CREDENTIALS }}' > tts-service-account.json
+          python main.py
+
+      - name: Commit and push generated files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git commit -m "Add today's episode" || echo "No changes to commit"
+          git push

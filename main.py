@@ -97,9 +97,8 @@ def update_archive(news_list, today_str):
 def update_rss(news_list, mp3_filename, today_str):
     """ポッドキャスト用RSS(feed.xml)の生成とShow Notesの追加"""
     rss_file = "docs/feed.xml"
-    
-    # ★ ここは後でGitHubにアップロードする際に書き換えます
-    base_url = "https://[あなたのユーザー名].github.io/daily-podcast/" 
+
+    base_url = "https://oh-nakao.github.io/daily-podcast/" 
     audio_url = f"{base_url}audio/{mp3_filename}"
     
     # アプリの詳細欄(Show Notes)に表示するHTMLリンクを作成

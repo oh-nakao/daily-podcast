@@ -1,3 +1,13 @@
+## 2026年08月03日のニュース
+
+- [大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/08/02/165033)
+- [Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/102130)
+- [『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech](https://blog.magnolia.tech/entry/2026/08/02/133343)
+- [ＡＩで生成した画像や動画、ＥＵが識別できる表示義務づけ…違反なら最大２７億円か年売上高３％の制裁金](https://www.yomiuri.co.jp/economy/20260801-GYT1T00222/)
+- [クラウドセキュリティ入門　～安全なクラウド利用のための基礎知識～](https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi)
+
+---
+
 ## 2026年08月02日のニュース
 
 - [Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学DX業務推進室](https://mx.general.hokudai.ac.jp/posts/SuvDaMaR)

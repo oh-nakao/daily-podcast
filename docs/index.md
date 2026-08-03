@@ -1,3 +1,13 @@
+## 2026年08月04日のニュース
+
+- [AIで仕事を効率化したら、なぜか僕の仕事だけ増えた話](https://anond.hatelabo.jp/20260803162719)
+- [宮本佳林『元アイドルがバイブコーディングできるようになるまで。』](https://ameblo.jp/miyamotokarin-official/entry-12974640519.html)
+- [社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと - Qiita](https://qiita.com/rira__/items/dab9765ffd6aae8f0c07)
+- [BASE子会社、最大885万件漏えいか　カード番号の一部も　ECサイト構築サービスに不正アクセス](https://www.itmedia.co.jp/news/article/2608/03/2000000355/)
+- [つい見せたくなる延長コード、開発したのは東大阪の電線メーカー　3000万円の機械導入で思いを形に](https://www.itmedia.co.jp/news/article/2608/03/2000000364/)
+
+---
+
 ## 2026年08月03日のニュース
 
 - [大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/08/02/165033)

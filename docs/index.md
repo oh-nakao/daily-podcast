@@ -1,3 +1,13 @@
+## 2026年08月05日のニュース
+
+- [40代ITエンジニアだが俺たちの世代がIT業界を衰退させたことに謝罪したい](https://anond.hatelabo.jp/20260804180722)
+- [エンジニアよ、商談に出よう - Repro Tech Blog](https://tech.repro.io/entry/2026/08/04/100000)
+- [「コードを書くだけ」の仕事は、もう回ってこない。｜すてぃお](https://note.com/suthio/n/n7eddaacc515d)
+- [あなたはどんな「インターネット老人」だったのか。生年を入れると詳しくなってウンチクが語れる年表アプリを作った（CloseBox） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/08/04/5360.html)
+- [pの中にdivを入れられないのはなぜか - Legalscapeテックブログ](https://tech.legalscape.co.jp/entry/2026/08/04/111358)
+
+---
+
 ## 2026年08月04日のニュース
 
 - [AIで仕事を効率化したら、なぜか僕の仕事だけ増えた話](https://anond.hatelabo.jp/20260803162719)

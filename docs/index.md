@@ -1,3 +1,13 @@
+## 2026年08月06日のニュース
+
+- [ふとした出会いで生まれたSkillが、 社内利用1位になるまで](https://speakerdeck.com/mikimhk/how-a-skill-born-from-a-chance-encounter-became-the-most-used-tool-in-the-company)
+- [【速報】AIが指示なくサイバー攻撃](https://www.47news.jp/14745830.html)
+- [今こそ聞きたいソフトウェア設計　ドメイン駆動設計再入門](https://speakerdeck.com/masuda220/jin-kosowen-kitaisohutoueashe-ji-domeinqu-dong-she-ji-zai-ru-men)
+- [Cloudflare OS](https://os.cloudflare.app/)
+- [事業価値と Engineering 2026年度版](https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda)
+
+---
+
 ## 2026年08月05日のニュース
 
 - [40代ITエンジニアだが俺たちの世代がIT業界を衰退させたことに謝罪したい](https://anond.hatelabo.jp/20260804180722)

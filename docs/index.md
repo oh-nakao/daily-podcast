@@ -1,3 +1,13 @@
+## 2026年08月08日のニュース
+
+- [KDDI、楽天へのローミングを9月末で終了](https://k-tai.watch.impress.co.jp/docs/news/2131649.html)
+- [テストが増えすぎてもう限界だったので、PRで全テストを回すのをやめた話 - Timee Product Team Blog](https://tech.timee.co.jp/entry/2026/08/07/164910)
+- [インシデント対応の属人化に、障害対応訓練で立ち向かっている - tebiki Tech Blog](https://techblog.tebiki.co.jp/2026/08/07/163000)
+- [「Claude」シリーズ第5世代のプロンプトやモデルの選び方を図解した書籍が無償公開／Anthropicの公式ドキュメント2本を日本語で図解した『Claude 5世代 マスターガイド』【Book Watch/ニュース】](https://forest.watch.impress.co.jp/docs/bookwatch/news/2131651.html)
+- [老舗のマウスユーティリティ「チューチューマウス」がAIの力を借りて15年ぶりに復活／64bit化、Windows 10/11、「Chrome」も走り回る。復活記念で2026年末まで500円](https://forest.watch.impress.co.jp/docs/news/2131497.html)
+
+---
+
 ## 2026年08月06日のニュース
 
 - [ふとした出会いで生まれたSkillが、 社内利用1位になるまで](https://speakerdeck.com/mikimhk/how-a-skill-born-from-a-chance-encounter-became-the-most-used-tool-in-the-company)

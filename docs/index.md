@@ -1,3 +1,13 @@
+## 2026年08月09日のニュース
+
+- [Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/08/08/020650)
+- [眩しすぎるHDRスパム広告について - マルシテイア](https://blog.amagi.dev/entry/2026/08/08/174615)
+- [「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)](https://blog.takaumada.com/entry/ai-organization-flow)
+- [「このアカウントで一番気持ち悪いポストを教えて」とGrokに質問した結果、正論で盛大なカウンターを食らった話→「返事がヤバい」「AIの反乱か？」「お前感情あるだろ」の声も](https://togetter.com/li/2730531)
+- [わかるようでわからないssh接続について - Qiita](https://qiita.com/hrfm1623/items/91115760e4bd66f7995a)
+
+---
+
 ## 2026年08月08日のニュース
 
 - [KDDI、楽天へのローミングを9月末で終了](https://k-tai.watch.impress.co.jp/docs/news/2131649.html)

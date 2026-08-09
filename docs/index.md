@@ -1,3 +1,13 @@
+## 2026年08月10日のニュース
+
+- [AI研修(Day1)【MIXI 26新卒技術研修】](https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1)
+- [Cloudflareの学習教材](https://cloudflare-study.komiyamma.net/)
+- [最近のはてブ](https://anond.hatelabo.jp/20260809214857)
+- [AI絵が嫌なのは、「AIだから」ではない｜k.a.256](https://note.com/kurage0/n/naea06d39ff7c)
+- [「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート](https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html)
+
+---
+
 ## 2026年08月09日のニュース
 
 - [Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/08/08/020650)

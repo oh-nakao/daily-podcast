@@ -1,3 +1,13 @@
+## 2026年08月11日のニュース
+
+- [「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way](https://expajp-tech.hatenablog.com/entry/2026/08/09/191222)
+- [AIインフラの最新技術動向2026 (OCP China)](https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china)
+- [AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに](https://gigazine.net/news/20260810-ai-ram-price/)
+- [マイクロソフト、知らないうちに写真管理アプリを追加　消すにはOneDriveごと削除が必要　報道](https://ascii.jp/elem/000/004/426/4426228/)
+- [毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】](https://forest.watch.impress.co.jp/docs/review/2131992.html)
+
+---
+
 ## 2026年08月10日のニュース
 
 - [AI研修(Day1)【MIXI 26新卒技術研修】](https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1)

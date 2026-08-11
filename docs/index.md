@@ -1,3 +1,13 @@
+## 2026年08月12日のニュース
+
+- [AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/08/11/5382.html)
+- [管理職にならないまま45歳になるとどうなる？　マネジメントを避ける若者が陥る「3つの誤解」 [1/2] | ログミーBusiness](https://logmi.jp/main/management/333602)
+- [小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア](https://36kr.jp/492696/)
+- [義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた](https://togetter.com/li/2731705)
+- [1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です](https://zenn.dev/singularity/articles/ever-better-pm2)
+
+---
+
 ## 2026年08月11日のニュース
 
 - [「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way](https://expajp-tech.hatenablog.com/entry/2026/08/09/191222)

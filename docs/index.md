@@ -1,3 +1,13 @@
+## 2026年08月13日のニュース
+
+- [やる夫で学ぶディジタル信号処理 (PDF版) 暫定配布所 - swk's log はてな別館](https://swkagami.hatenablog.com/entry/yaruodsp_00pdf)
+- [ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に](https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/)
+- [Microphone Test](https://vaaaaanquish.github.io/MicrophoneTest/)
+- [Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた](https://zenn.dev/hellorusk/articles/3328866ca9e922)
+- [30年以上前に「NTTのシステムのバグを利用して公衆電話をハッキングする」という闇バイトをしたポスト主…騙されていることがわかり、すぐに通報したが、捜査も裁判も難航した話が興味深い](https://togetter.com/li/2732150)
+
+---
+
 ## 2026年08月12日のニュース
 
 - [AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/08/11/5382.html)

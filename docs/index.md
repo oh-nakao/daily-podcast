@@ -1,3 +1,13 @@
+## 2026年08月14日のニュース
+
+- [Webサービスの終わらせ方](https://zenn.dev/kibe/articles/df74c2e9fe76b6)
+- [Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/)
+- [オールドファン歓喜、ブラウザー上で動作するX68000エミュレーターが登場。ライセンスもクリア【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2132479.html)
+- [HDDが容量2桁台でもがいている間、SSDは512TBに到達した](https://pc.watch.impress.co.jp/docs/news/2132491.html)
+- [品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働](https://forest.watch.impress.co.jp/docs/news/2132444.html)
+
+---
+
 ## 2026年08月13日のニュース
 
 - [やる夫で学ぶディジタル信号処理 (PDF版) 暫定配布所 - swk's log はてな別館](https://swkagami.hatenablog.com/entry/yaruodsp_00pdf)

@@ -1,3 +1,13 @@
+## 2026年08月15日のニュース
+
+- [The 37signals Manager Playbook](https://basecamp.com/managers)
+- [夏祭りのポップやポスターをAIで作るの本当にやめた方がいい、ぱっと見は整ってるけど美味しそうに見えない→最近やたら増えてきて違和感を持っている人が多いらしい](https://togetter.com/li/2732994)
+- [ブラウザでPC-98が起動!! FreeDOS(98)同梱＆AI操作対応の「WebNP2」 - RetroPC NEWS](https://retropcnews.com/archives/7688)
+- [これこそ、まさに『印象操作』｜境野春彦－コネクトエネルギー合同会社CEO、経営コンサルタント](https://note.com/connect_energy/n/n5a6c8c16bed6)
+- [Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash｜npaka](https://note.com/npaka/n/n1d08ec975c9f)
+
+---
+
 ## 2026年08月14日のニュース
 
 - [Webサービスの終わらせ方](https://zenn.dev/kibe/articles/df74c2e9fe76b6)

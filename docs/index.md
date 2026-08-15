@@ -1,3 +1,13 @@
+## 2026年08月16日のニュース
+
+- [AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】](https://ai.itokoba.com/archives/861/)
+- [年収1億円プレイヤーが200ペタフロップスの推論エンジンになった話](https://anond.hatelabo.jp/20260815173709)
+- [260815_超かぐや姫おつかれさま本.pdf](https://www.dropbox.com/scl/fi/2dz2rnch41n0ym6svx2v1/260815_.pdf?rlkey=79hr9bq43shkosbwhe93003lu&st=z03mvt95&e=1&dl=0)
+- [ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.a..](https://anond.hatelabo.jp/20260815212139)
+- [無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり](https://gigazine.net/news/20260815-dbgate/)
+
+---
+
 ## 2026年08月15日のニュース
 
 - [The 37signals Manager Playbook](https://basecamp.com/managers)

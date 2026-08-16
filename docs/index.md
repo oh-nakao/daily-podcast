@@ -1,3 +1,13 @@
+## 2026年08月17日のニュース
+
+- [小説文体におけるAI臭さ](https://anond.hatelabo.jp/20260816172202)
+- [なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？](https://zenn.dev/pdfractal/articles/c7af0a168c0552)
+- [AIがコードを書くなら、もう勉強しなくていい？AI時代に基礎を学ぶ理由 | ドクセル](https://www.docswell.com/s/magurotuna/53J4YJ-2026-08-16-aiau-craft-day)
+- [【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた - Qiita](https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe)
+- [味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」](https://togetter.com/li/2733655)
+
+---
+
 ## 2026年08月16日のニュース
 
 - [AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】](https://ai.itokoba.com/archives/861/)

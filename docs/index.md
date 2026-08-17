@@ -1,3 +1,13 @@
+## 2026年08月18日のニュース
+
+- [とまり木 — 各地のカメラから、日本のいま。](https://tomarigi.me/)
+- [攻撃手法から学ぶ OAuth セキュリティベストプラクティス](https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp)
+- [「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪](https://www.itmedia.co.jp/aiplus/article/2608/17/2000000564/)
+- [うんこミュージアム、個人情報漏れた可能性　不正アクセスで](https://ascii.jp/elem/000/004/427/4427059/)
+- [Codexを効率よく使う方法（ChatGPT + GitHub）](https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e)
+
+---
+
 ## 2026年08月17日のニュース
 
 - [小説文体におけるAI臭さ](https://anond.hatelabo.jp/20260816172202)

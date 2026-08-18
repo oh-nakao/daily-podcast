@@ -1,3 +1,13 @@
+## 2026年08月19日のニュース
+
+- [通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」](https://www.itmedia.co.jp/news/article/2608/18/2000000596/)
+- [若者の【キモい】の使い方がおかしい](https://anond.hatelabo.jp/20260818123722)
+- [はじめに](https://rust-cpu-gpu-book.void.app/)
+- [マイクロソフト幹部、路上で銃殺　親権めぐる対立で元妻らが契約殺人](https://www.cnn.co.jp/usa/35251656.html)
+- [LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡](https://note.com/lifeisbeautiful/n/n890f00a6136a)
+
+---
+
 ## 2026年08月18日のニュース
 
 - [とまり木 — 各地のカメラから、日本のいま。](https://tomarigi.me/)

@@ -1,3 +1,13 @@
+## 2026年08月20日のニュース
+
+- [当社システムへの不正アクセスに関するお知らせ（第二報）（2026年8月19日 18:40更新） | さくらインターネット](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/)
+- [フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム](https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html)
+- [道徳問う「トロッコ問題」、AIの反論で3割が判断覆す　神戸大が実験 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/)
+- [第923回　DockgeでDocker Composeをブラウザから手軽に管理しよう | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0923)
+- [CRE だけど「SREの知識地図」を読んだ - えいのうにっき](https://blog.a-know.me/entry/2026/08/19/174450)
+
+---
+
 ## 2026年08月19日のニュース
 
 - [通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」](https://www.itmedia.co.jp/news/article/2608/18/2000000596/)

@@ -1,3 +1,13 @@
+## 2026年08月21日のニュース
+
+- [はてなパークス](https://p.hatena.ne.jp/)
+- [はてな、創業25周年を迎えた節目に新サービス「はてなパークス」を正式リリース - プレスリリース - 株式会社はてな](https://hatena.co.jp/press/release/entry/2026/08/20/163000)
+- [アマゾンに新機能「購入して配送に追加」 購入手続きが不要に](https://www.watch.impress.co.jp/docs/news/2134299.html)
+- [「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす](https://togetter.com/li/2735209)
+- [AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計](https://zenn.dev/mkj/articles/aad5698672aef3)
+
+---
+
 ## 2026年08月20日のニュース
 
 - [当社システムへの不正アクセスに関するお知らせ（第二報）（2026年8月19日 18:40更新） | さくらインターネット](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/)

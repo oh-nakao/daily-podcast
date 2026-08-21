@@ -1,3 +1,13 @@
+## 2026年08月22日のニュース
+
+- [Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案](https://forest.watch.impress.co.jp/docs/news/2134400.html)
+- [ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん](https://note.com/saamon_note/n/nf2624bde20d6)
+- [或るログ研究者](https://zenn.dev/dmikurube/articles/a-logresearch-er)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+- [はてなパークスはどうすべきだったか？](https://anond.hatelabo.jp/20260821110703)
+
+---
+
 ## 2026年08月21日のニュース
 
 - [はてなパークス](https://p.hatena.ne.jp/)
